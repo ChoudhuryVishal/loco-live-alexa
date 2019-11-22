@@ -7,7 +7,7 @@ import threading
 import socket
 import pickle
 
-from config import config
+
 from Tools import getPoints
 
 client = discord.Client()
