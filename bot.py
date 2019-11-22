@@ -1,7 +1,7 @@
 import discord
 import json
 import asyncio
-import requests
+
 import time
 import threading
 import socket
