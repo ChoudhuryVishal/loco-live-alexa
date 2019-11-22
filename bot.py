@@ -8,7 +8,7 @@ import socket
 import pickle
 
 
-from Tools import getPoints
+
 
 client = discord.Client()
 
